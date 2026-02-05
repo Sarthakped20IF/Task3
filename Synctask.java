@@ -41,6 +41,6 @@ public class Synctask {
 //        Note : to use join() method in threads we must need to throw InterruptedExpection in main class or in the class we are using that method
 
         System.out.println(acc1.getBalance());// this must return the minimum or the pre-defined balance i.e 2000.0
-//        to check the difference we can run the loop for different values or else add different value while calling the methods 
+//        to check the difference we can run the loop for different values or else add different value while calling the methods
     }
 }
